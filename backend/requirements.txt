@@ -9,7 +9,7 @@ pwdlib[argon2]==0.2.1
 PyJWT==2.10.1
 email-validator==2.2.0
 python-multipart==0.0.20
-pypdf==5.1.0
+pypdf==6.21.4
 redis==5.2.1
 rq==2.1.0
 nvidia-riva-client==2.20.0
